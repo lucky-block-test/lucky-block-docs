@@ -51,4 +51,4 @@ Click **"Add file"** → **"Create new file"** for each one.
 
 **File 1:**
 ```
-Name: architecture.md
+
